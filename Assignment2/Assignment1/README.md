@@ -9,4 +9,4 @@ Home assingment 2 - Two exercises on memory and file usage (Assignment2a, Assign
 ## Build
 make
 ## Run
-./Assignment2a
+./assignment2a
