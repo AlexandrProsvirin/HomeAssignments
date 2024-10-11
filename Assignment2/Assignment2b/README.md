@@ -2,7 +2,7 @@ Assignment2/Assignment2b
 
 Prosvirin Alexandr B82
 
-sashagoncharenko12@gmail.com/st135849@spbu.ru
+sashagoncharenko12@gmail.com/st135849@student.spbu.ru
 
 ## Description
 Home assingment 2 - Two exercises on memory and file usage (Assignment2a, Assignment2b)
