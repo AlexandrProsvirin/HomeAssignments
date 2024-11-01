@@ -1,3 +1,4 @@
+//Prosvirin Alexandr B82 Assignment 2b
 #include "myheader.h"
 #include <iostream>
 #include <string>
