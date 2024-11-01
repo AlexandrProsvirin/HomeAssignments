@@ -1,3 +1,4 @@
+//Prosvirin Alexandr B82 Assignment 2a
 #include "myheader.h"
 #include <iostream>
 
@@ -5,12 +6,12 @@ int main() {
     size_t fileSize;
     char* buffer = readFile("first.txt", fileSize);
     
-    if (!buffer) return 1; // Проверяем, что файл был успешно прочитан
+    if (!buffer) return 1; 
 
     reverseArray(buffer, fileSize);
     writeFile("reverse.txt", buffer, fileSize);
 
-    delete[] buffer; // Освобождаем память
+    delete[] buffer; 
     std::cout << "Файл успешно обработан и сохранен как reverse.txt" << std::endl;
     
     return 0;
